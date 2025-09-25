@@ -3,9 +3,8 @@ I'm WordPress Developer & I build products that delight customers through a blen
 
 
 ## Currently
-- 🇨🇦  &nbsp;Living in Canada  
-- 💻 &nbsp;Learning about ReactJS
-- 🛠  &nbsp;Building Gutenberg Blocks with React
+- 💻 &nbsp;Learning about Nextjs, Strapi, React
+- 🛠  &nbsp;Building Gutenberg Blocks with React & ACF
 - 😱 &nbsp;Providing support on the [WordPress.org forums](https://wordpress.org/support/view/all-topics/ "WordPress.org forums")
 
 ## More About me
